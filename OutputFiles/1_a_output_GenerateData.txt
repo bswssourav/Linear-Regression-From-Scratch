@@ -1,0 +1,16 @@
+"C:\Users\Sourav Biswas\PycharmProjects\mlassignment1\venv\Scripts\python.exe" "C:/Users/Sourav Biswas/PycharmProjects/mlassignment1/assignment1_1_a_generateData.py"
+Console output is saving to: C:\Users
+the Generated datas ------
+           x         y
+0  0.047599 -0.137124
+1  0.766872 -0.529564
+2  0.176637  0.274349
+3  0.538411 -0.406828
+4  0.423376 -0.299221
+5  0.871211  0.089847
+6  0.963695 -0.361060
+7  0.097744  0.276793
+8  0.104969 -0.361964
+9  0.886754  0.394337
+
+Process finished with exit code 0
